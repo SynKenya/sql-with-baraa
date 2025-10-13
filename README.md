@@ -24,3 +24,4 @@ I'm learning in public, documenting everything, and applying my Git & GitHub ski
 Follow my journey on X (Twitter): [@syn_kenya](https://x.com/syn_kenya) and [@DataEngineerKE](https://x.com/DataEngineerKE)  
 Organization: [SynKenya](https://github.com/SynKenya)
 
+Successfully changed to using SSH Keys.
